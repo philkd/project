@@ -3,7 +3,7 @@ import React from 'react'
 
 const HomePage = () => {
   return (
-    <div>Hello Worldddddddd</div>
+    <div>Atomic-Design init</div>
   )
 }
 
